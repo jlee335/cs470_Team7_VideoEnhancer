@@ -34,12 +34,14 @@ cs470_Team7_VideoEnhancer/
 ├── improve_framerate.ipynb   
 └── improve_resolution.ipynb  
 ```
-#Training
+Training
+------------
   1. Add .mp4 files to Train_data in order to increase training dataset. 
   2. Open Models folder and open .ipynb file which you like to train
   3. Run the ipynb folder and train the model.
 
-#Converting Video
+Converting Video
+------------
   1. Place mp4 file you want to convert to in 'Test/Before/' folder
   1. Run improve_framerate or improve_resolution ipynb
   2. Result video file will be outputted in 'Test/After/' folder.
