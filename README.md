@@ -9,32 +9,33 @@
 #Requirements 
 This code is specialized on Google Colab environment. To re-create our results, please clone this repository to Google Drive.
 
+Folder Structure
 '''
 cs470_Team7_VideoEnhancer/
 ├── Data/
 │   ├── Test_Data/
-│   │   └──  ** Add constant-frame encoded mp4 files to be used as validation data set.
+│   │   └──  ** 
 │   │
 │   └── Train_Data/
-│       └──  ** Add constant-frame encoded mp4 files to be used as training data set.
+│       └──  ** 
 │    
 │  
-├── Models/  All four ipynb files contain code for the models and their corresponding training codes.       
-│   └──  ** Intermediate and Final trained models are stored here. We have provided our own trained model by default.
+├── Models/  
+│   └──  ** 
 |   
 ├── Test/
 |    ├── Before/
-|    |   └── ** Add video you want to increase quality here.
+|    |   └── ** 
 |    └── After/
-|        └── ** High-quality video will appear here after code run.
+|        └── ** 
 |                       
 ├── Attempt1.ipynb              
 ├── Attempt2.ipynb              
 ├── Attempt3.ipynb   
 ├── Frame_interpolation.ipynb  
 |
-├── improve_framerate.ipynb   <- This notebook increases framerate by frame_interp network.
-└── improve_resolution.ipynb  <- This notebook increases resolution using SR network.
+├── improve_framerate.ipynb   
+└── improve_resolution.ipynb  
 '''
 #Training
   1. Add .mp4 files to Train_data in order to increase training dataset. 
