@@ -10,6 +10,7 @@
 This code is specialized on Google Colab environment. To re-create our results, please clone this repository to Google Drive.
 
 #File Structure
+'''
 cs470_Team7_VideoEnhancer/
 ├── Data/
 │   ├── Test_Data/
@@ -35,7 +36,7 @@ cs470_Team7_VideoEnhancer/
 |
 ├── improve_framerate.ipynb   <- This notebook increases framerate by frame_interp network.
 └── improve_resolution.ipynb  <- This notebook increases resolution using SR network.
-  
+'''
 #Training
   1. Add .mp4 files to Train_data in order to increase training dataset. 
   2. Open Models folder and open .ipynb file which you like to train
