@@ -9,7 +9,6 @@
 #Requirements 
 This code is specialized on Google Colab environment. To re-create our results, please clone this repository to Google Drive.
 
-#File Structure
 '''
 cs470_Team7_VideoEnhancer/
 ├── Data/
