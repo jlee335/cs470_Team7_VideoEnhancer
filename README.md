@@ -46,6 +46,12 @@ Converting Video
   1. Run improve_framerate or improve_resolution ipynb
   2. Result video file will be outputted in 'Test/After/' folder.
 
+How to test the model.
+------------
+  1. Clone the git repository and upload it in google drive
+  2. Execute All the codes above "Traing Model".
+  3. Upload 3 consequtive image and modify the directory on "Model Test For 3 Image as Input" part to test with image inputs
+  4. Upload a video and execute "Model Test For Video as Input" with properly modified directory.
 
 
 
