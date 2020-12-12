@@ -17,9 +17,9 @@ Folder Structure
 cs470_Team7_VideoEnhancer/
 ├── Data/
 │   ├── Test_Data/
-│   │   └──  ** 
+│   │   └──  ** Add validation dataset here (mp4)
 │   └── Train_Data/
-│       └──  **  
+│       └──  ** Add train dataset here (mp4)
 ├── Models/  
 │   └──  ** 
 ├── Test/
