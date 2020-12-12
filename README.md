@@ -56,8 +56,8 @@ How to test the model.
 
 Model Download Links
 ------------
-Frame_Interp  : https://drive.google.com/file/d/10_v9Hh5FqJDxSJpyik2pgXdXwstKifgn/view?usp=sharing, 
-SR Attempt 3  : https://drive.google.com/file/d/12Xg-2C1CR5PAUMkX1bq0ECBqNgCUvS2U/view?usp=sharing, 
-SR Attempt 2  : https://drive.google.com/file/d/1D_VNCOdUrYsQ7uw7N39HJXzlPf-ddsJy/view?usp=sharing, 
-SR Attempt 1  : https://drive.google.com/file/d/1v8luhcNEWbSUV--QHsnEJtaIMwYe046A/view?usp=sharing
+* Frame_Interp  : https://drive.google.com/file/d/10_v9Hh5FqJDxSJpyik2pgXdXwstKifgn/view?usp=sharing, 
+* SR Attempt 3  : https://drive.google.com/file/d/12Xg-2C1CR5PAUMkX1bq0ECBqNgCUvS2U/view?usp=sharing, 
+* SR Attempt 2  : https://drive.google.com/file/d/1D_VNCOdUrYsQ7uw7N39HJXzlPf-ddsJy/view?usp=sharing, 
+* SR Attempt 1  : https://drive.google.com/file/d/1v8luhcNEWbSUV--QHsnEJtaIMwYe046A/view?usp=sharing
 
