@@ -9,7 +9,7 @@ cs470_Team7_VideoEnhancer
 
 Requirements 
 ------------
-This code is specialized on Google Colab environment. To re-create our results, please clone this repository to Google Drive.
+This code is specialized on Google Colab environment. To re-create our results, please clone this repository to Google Drive. Please check that the folder "cs470_Team7_VideoEnhancer" is in './gdrive/' repository.
 
 Folder Structure
 ------------
