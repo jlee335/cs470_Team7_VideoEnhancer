@@ -49,9 +49,15 @@ Converting Video
 How to test the model.
 ------------
   1. Clone the git repository and upload it in google drive
-  2. Execute All the codes above "Traing Model".
-  3. Upload 3 consequtive image and modify the directory on "Model Test For 3 Image as Input" part to test with image inputs
-  4. Upload a video and execute "Model Test For Video as Input" with properly modified directory.
+  2. If you want to use pre-trained models, download from link below and place them under "/Models/" directory.
+  3. Open an ipynb file you want to test. Execute All the codes above "Training Model".
+  4. For testing individual images, upload 3 consecutive images and modify the directory on "Model Test For 3 Image as Input" part to test with image inputs
+  5. For converting enitre videos, upload a video and execute "Model Test For Video as Input" with properly modified directory.
 
-
+Model Download Links
+------------
+Frame_Interp  : https://drive.google.com/file/d/10_v9Hh5FqJDxSJpyik2pgXdXwstKifgn/view?usp=sharing, 
+SR Attempt 3  : https://drive.google.com/file/d/12Xg-2C1CR5PAUMkX1bq0ECBqNgCUvS2U/view?usp=sharing, 
+SR Attempt 2  : https://drive.google.com/file/d/1D_VNCOdUrYsQ7uw7N39HJXzlPf-ddsJy/view?usp=sharing, 
+SR Attempt 1  : https://drive.google.com/file/d/1v8luhcNEWbSUV--QHsnEJtaIMwYe046A/view?usp=sharing
 
